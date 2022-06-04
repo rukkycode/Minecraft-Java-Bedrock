@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://static3.srcdn.com/wordpress/wp-content/uploads/2021/03/Minecraft-Nether-Update-Title-Screen-Seed.jpg?q=50&fit=crop&w=963&h=541&dpr=1.5");
+    background-size: 1500px 700px;
+}
+
+#title {
+        left: 680px;
+}
+
+#SinglePlayer_Btn {
+    size: 100px;
+    color: blue;
+}
